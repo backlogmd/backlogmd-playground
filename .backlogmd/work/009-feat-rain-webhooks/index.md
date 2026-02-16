@@ -3,6 +3,7 @@
 ```yaml
 work: Webhook when rain completes
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

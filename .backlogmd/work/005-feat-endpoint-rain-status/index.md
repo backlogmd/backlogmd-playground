@@ -3,6 +3,7 @@
 ```yaml
 work: GET /rain/status
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

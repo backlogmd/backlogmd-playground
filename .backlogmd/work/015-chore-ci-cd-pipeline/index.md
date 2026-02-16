@@ -3,6 +3,7 @@
 ```yaml
 work: CI/CD pipeline
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

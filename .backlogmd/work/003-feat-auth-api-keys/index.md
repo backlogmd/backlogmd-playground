@@ -3,6 +3,7 @@
 ```yaml
 work: Auth service with API keys
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

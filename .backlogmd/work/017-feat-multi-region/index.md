@@ -3,6 +3,7 @@
 ```yaml
 work: Multi-region deployment
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

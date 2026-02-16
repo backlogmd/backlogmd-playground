@@ -3,6 +3,7 @@
 ```yaml
 work: Dashboard UI skeleton
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

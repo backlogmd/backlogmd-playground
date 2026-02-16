@@ -3,6 +3,7 @@
 ```yaml
 work: E2E tests for API
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

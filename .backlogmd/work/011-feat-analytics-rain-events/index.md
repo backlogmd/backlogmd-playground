@@ -3,6 +3,7 @@
 ```yaml
 work: Analytics – rain events count
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

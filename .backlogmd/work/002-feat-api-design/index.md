@@ -3,6 +3,7 @@
 ```yaml
 work: API design document for Hamburger Rain
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

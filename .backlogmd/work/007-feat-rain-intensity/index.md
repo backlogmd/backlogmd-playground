@@ -3,6 +3,7 @@
 ```yaml
 work: Rain intensity parameter
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

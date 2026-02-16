@@ -3,6 +3,7 @@
 ```yaml
 work: Hamburger sprite assets
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

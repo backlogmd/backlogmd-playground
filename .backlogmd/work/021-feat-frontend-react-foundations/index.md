@@ -3,6 +3,7 @@
 ```yaml
 work: Foundations of the frontend React app
 status: open
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

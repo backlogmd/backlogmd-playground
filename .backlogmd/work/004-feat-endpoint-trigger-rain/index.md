@@ -3,6 +3,7 @@
 ```yaml
 work: POST /rain – trigger hamburger rain
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

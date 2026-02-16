@@ -3,6 +3,7 @@
 ```yaml
 work: Unit tests for rain service
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

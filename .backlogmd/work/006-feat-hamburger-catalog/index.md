@@ -3,6 +3,7 @@
 ```yaml
 work: Hamburger type catalog
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

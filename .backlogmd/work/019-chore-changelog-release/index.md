@@ -3,6 +3,7 @@
 ```yaml
 work: Changelog and release process
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

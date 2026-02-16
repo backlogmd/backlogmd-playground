@@ -3,6 +3,7 @@
 ```yaml
 work: Monitoring and alerting
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->

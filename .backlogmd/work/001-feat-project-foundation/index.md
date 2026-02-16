@@ -3,6 +3,7 @@
 ```yaml
 work: Project foundation and repo setup
 status: done
+assignee: ""
 ```
 
 <!-- DESCRIPTION -->
