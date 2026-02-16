@@ -2,10 +2,10 @@
 
 ```yaml
 task: Initialize React app with Vite and TypeScript
-status: open
+status: in-progress
 priority: 10
 dep: []
-assignee: ""
+assignee: "Jazmin"
 requiresHumanReview: false
 expiresAt: null
 ```

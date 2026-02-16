@@ -2,8 +2,8 @@
 
 ```yaml
 work: Foundations of the frontend React app
-status: open
-assignee: ""
+status: in-progress
+assignee: "Jazmin"
 ```
 
 <!-- DESCRIPTION -->
